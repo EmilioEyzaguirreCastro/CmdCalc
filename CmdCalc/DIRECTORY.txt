@@ -1,0 +1,2 @@
+CmdCalc/bin/Debug/netcoreapp3.1/CmdCalc.exe
+O ejecutar el acceso directo: CmdCalc.exe

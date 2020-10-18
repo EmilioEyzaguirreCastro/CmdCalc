@@ -1,0 +1,13 @@
+C:\Users\Usuario1\Documents\CmdCalc\CmdCalc\CmdCalc\bin\Debug\netcoreapp3.1\CmdCalc.exe
+C:\Users\Usuario1\Documents\CmdCalc\CmdCalc\CmdCalc\bin\Debug\netcoreapp3.1\CmdCalc.deps.json
+C:\Users\Usuario1\Documents\CmdCalc\CmdCalc\CmdCalc\bin\Debug\netcoreapp3.1\CmdCalc.runtimeconfig.json
+C:\Users\Usuario1\Documents\CmdCalc\CmdCalc\CmdCalc\bin\Debug\netcoreapp3.1\CmdCalc.runtimeconfig.dev.json
+C:\Users\Usuario1\Documents\CmdCalc\CmdCalc\CmdCalc\bin\Debug\netcoreapp3.1\CmdCalc.dll
+C:\Users\Usuario1\Documents\CmdCalc\CmdCalc\CmdCalc\bin\Debug\netcoreapp3.1\CmdCalc.pdb
+C:\Users\Usuario1\Documents\CmdCalc\CmdCalc\CmdCalc\obj\Debug\netcoreapp3.1\CmdCalc.AssemblyInfoInputs.cache
+C:\Users\Usuario1\Documents\CmdCalc\CmdCalc\CmdCalc\obj\Debug\netcoreapp3.1\CmdCalc.AssemblyInfo.cs
+C:\Users\Usuario1\Documents\CmdCalc\CmdCalc\CmdCalc\obj\Debug\netcoreapp3.1\CmdCalc.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\Documents\CmdCalc\CmdCalc\CmdCalc\obj\Debug\netcoreapp3.1\CmdCalc.dll
+C:\Users\Usuario1\Documents\CmdCalc\CmdCalc\CmdCalc\obj\Debug\netcoreapp3.1\CmdCalc.pdb
+C:\Users\Usuario1\Documents\CmdCalc\CmdCalc\CmdCalc\obj\Debug\netcoreapp3.1\CmdCalc.genruntimeconfig.cache
+C:\Users\Usuario1\Documents\CmdCalc\CmdCalc\CmdCalc\obj\Debug\netcoreapp3.1\CmdCalc.csprojAssemblyReference.cache
